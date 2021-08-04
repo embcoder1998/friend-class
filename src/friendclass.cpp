@@ -4,6 +4,8 @@
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
+
+// this funtion related to the class friend
 //============================================================================
 
 #include <iostream>
