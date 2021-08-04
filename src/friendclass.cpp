@@ -16,7 +16,7 @@ public:
 	void set_data(int a,int b){
 		age=a;
 		sal=b;
-		cout<<"sal"<<sal<<endl<<"age"<<age<<endl;
+		cout<<"sal"<<sal<<endl<<"age"<<age<<endl;//this is the display of the data
 	}
 	friend class B;
 };
